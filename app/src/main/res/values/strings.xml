@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OmdbApi</string>
+    <string name="movie_main">Movies</string>
+    <string name="movie_detail">Movie Info</string>
+</resources>
